@@ -1,0 +1,85 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: µVision V5.27.1.0
+Copyright (C) 2019 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: Mueed Ur Rehman, Student, LIC=----
+ 
+Tool Versions:
+Toolchain:       MDK-Lite  Version: 5.27.1.0
+Toolchain Path:  E:\Keil5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 6 (build 750)
+Assembler:       Armasm.exe V5.06 update 6 (build 750)
+Linker/Locator:  ArmLink.exe V5.06 update 6 (build 750)
+Library Manager: ArmAr.exe V5.06 update 6 (build 750)
+Hex Converter:   FromElf.exe V5.06 update 6 (build 750)
+CPU DLL:         SARMCM3.DLL V5.27.1.0
+Dialog DLL:      DCM.DLL V1.17.2.0
+Target DLL:      CMSIS_AGDI.dll V1.31.17.0
+Dialog DLL:      TCM.DLL V1.36.1.0
+ 
+<h2>Project:</h2>
+D:\Cornell\CS 3420\Lab 5\Lab5.uvprojx
+Project File Date:  04/26/2019
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 6 (build 750)', folder: 'E:\Keil5\ARM\ARMCC\Bin'
+Rebuild target 'Target 1'
+assembling 3140.s...
+assembling startup_MK64F12.s...
+compiling utils.c...
+compiling test_r1.c...
+test_r1.c(120): warning:  #111-D: statement is unreachable
+  	return 0;
+test_r1.c(121): warning:  #1-D: last line of file ends without a newline
+  }
+test_r1.c: 2 warnings, 0 errors
+compiling 3140_concur.c...
+compiling process.c...
+process.c(391): warning:  #940-D: missing return statement at end of non-void function "process_rt_periodic" 
+  }
+process.c(411): warning:  #1-D: last line of file ends without a newline
+  }
+process.c: 2 warnings, 0 errors
+compiling system_MK64F12.c...
+linking...
+Program Size: Code=3348 RO-data=1072 RW-data=72 ZI-data=2144  
+".\Objects\Lab5.axf" - 0 Error(s), 4 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                http://www.keil.com/pack/ARM.CMSIS.5.5.1.pack
+                ARM.CMSIS.5.5.1
+                CMSIS (Cortex Microcontroller Software Interface Standard)
+   * Component: CORE Version: 5.2.0
+
+Package Vendor: NXP
+                http://mcuxpresso.nxp.com/cmsis_pack/repo/NXP.MK64F12_DFP.11.0.0.pack
+                NXP.MK64F12_DFP.11.0.0
+                Device Family Pack for MK64F12
+   * Component: MK64F12_startup Version: 1.0.0
+
+<h2>Collection of Component include folders:</h2>
+  .\RTE\Device\MK64FN1M0VLL12
+  .\RTE\_Target_1
+  E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include
+  E:\Arm\Packs\NXP\MK64F12_DFP\11.0.0
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ARM::CMSIS:CORE:5.2.0
+
+   * Component: NXP::Device:Startup:MK64F12_startup:1.0.0
+      Include file:  MK64F12.h
+      Include file:  MK64F12_features.h
+      Source file:   system_MK64F12.c
+      Source file:   arm\startup_MK64F12.s
+      Include file:  system_MK64F12.h
+      Include file:  fsl_device_registers.h
+Build Time Elapsed:  00:00:02
+</pre>
+</body>
+</html>

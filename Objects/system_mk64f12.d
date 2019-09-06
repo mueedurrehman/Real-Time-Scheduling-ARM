@@ -1,0 +1,10 @@
+.\objects\system_mk64f12.o: RTE\Device\MK64FN1M0VLL12\system_MK64F12.c
+.\objects\system_mk64f12.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\system_mk64f12.o: RTE\Device\MK64FN1M0VLL12\fsl_device_registers.h
+.\objects\system_mk64f12.o: RTE\Device\MK64FN1M0VLL12\MK64F12.h
+.\objects\system_mk64f12.o: E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm4.h
+.\objects\system_mk64f12.o: E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h
+.\objects\system_mk64f12.o: E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\system_mk64f12.o: E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\system_mk64f12.o: RTE\Device\MK64FN1M0VLL12\system_MK64F12.h
+.\objects\system_mk64f12.o: RTE\Device\MK64FN1M0VLL12\MK64F12_features.h

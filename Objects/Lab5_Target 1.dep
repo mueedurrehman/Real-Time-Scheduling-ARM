@@ -1,0 +1,130 @@
+Dependencies for Project 'Lab5', Target 'Target 1': (DO NOT MODIFY !)
+F (.\lab5_t0.c)(0x5CC4BB89)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MK64FN1M0VLL12-I.\RTE\_Target_1-IE:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IE:\Arm\Packs\NXP\MK64F12_DFP\11.0.0-D__UVISION_VERSION="527" -D_RTE_ -DCPU_MK64FN1M0VLL12-o .\objects\lab5_t0.o --omf_browse .\objects\lab5_t0.crf --depend .\objects\lab5_t0.d)
+I (utils.h)(0x5CB367C8)
+I (3140_concur.h)(0x5CB367C4)
+I (E:\Keil5\ARM\ARMCC\include\stdlib.h)(0x599F75EC)
+I (.\RTE\Device\MK64FN1M0VLL12\fsl_device_registers.h)(0x5C1ACC1A)
+I (.\RTE\Device\MK64FN1M0VLL12\MK64F12.h)(0x5C1ACC1A)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm4.h)(0x5C8FF694)
+I (E:\Keil5\ARM\ARMCC\include\stdint.h)(0x599F75EE)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B97BD04)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8FF694)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8FF694)
+I (.\RTE\Device\MK64FN1M0VLL12\system_MK64F12.h)(0x5C1ACC1A)
+I (.\RTE\Device\MK64FN1M0VLL12\MK64F12_features.h)(0x5C1ACC1A)
+I (realtime.h)(0x5CC1E4AD)
+F (.\realtime.h)(0x5CC1E4AD)()
+F (.\3140_concur.h)(0x5CB367C4)()
+F (.\3140_concur.c)(0x5CB367C4)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MK64FN1M0VLL12-I.\RTE\_Target_1-IE:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IE:\Arm\Packs\NXP\MK64F12_DFP\11.0.0-D__UVISION_VERSION="527" -D_RTE_ -DCPU_MK64FN1M0VLL12-o .\objects\3140_concur.o --omf_browse .\objects\3140_concur.crf --depend .\objects\3140_concur.d)
+I (3140_concur.h)(0x5CB367C4)
+I (E:\Keil5\ARM\ARMCC\include\stdlib.h)(0x599F75EC)
+I (.\RTE\Device\MK64FN1M0VLL12\fsl_device_registers.h)(0x5C1ACC1A)
+I (.\RTE\Device\MK64FN1M0VLL12\MK64F12.h)(0x5C1ACC1A)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm4.h)(0x5C8FF694)
+I (E:\Keil5\ARM\ARMCC\include\stdint.h)(0x599F75EE)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B97BD04)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8FF694)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8FF694)
+I (.\RTE\Device\MK64FN1M0VLL12\system_MK64F12.h)(0x5C1ACC1A)
+I (.\RTE\Device\MK64FN1M0VLL12\MK64F12_features.h)(0x5C1ACC1A)
+F (.\process.c)(0x5CD4E600)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MK64FN1M0VLL12-I.\RTE\_Target_1-IE:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IE:\Arm\Packs\NXP\MK64F12_DFP\11.0.0-D__UVISION_VERSION="527" -D_RTE_ -DCPU_MK64FN1M0VLL12-o .\objects\process.o --omf_browse .\objects\process.crf --depend .\objects\process.d)
+I (3140_concur.h)(0x5CB367C4)
+I (E:\Keil5\ARM\ARMCC\include\stdlib.h)(0x599F75EC)
+I (.\RTE\Device\MK64FN1M0VLL12\fsl_device_registers.h)(0x5C1ACC1A)
+I (.\RTE\Device\MK64FN1M0VLL12\MK64F12.h)(0x5C1ACC1A)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm4.h)(0x5C8FF694)
+I (E:\Keil5\ARM\ARMCC\include\stdint.h)(0x599F75EE)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B97BD04)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8FF694)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8FF694)
+I (.\RTE\Device\MK64FN1M0VLL12\system_MK64F12.h)(0x5C1ACC1A)
+I (.\RTE\Device\MK64FN1M0VLL12\MK64F12_features.h)(0x5C1ACC1A)
+I (realtime.h)(0x5CC1E4AD)
+F (.\utils.c)(0x5CB367C8)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MK64FN1M0VLL12-I.\RTE\_Target_1-IE:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IE:\Arm\Packs\NXP\MK64F12_DFP\11.0.0-D__UVISION_VERSION="527" -D_RTE_ -DCPU_MK64FN1M0VLL12-o .\objects\utils.o --omf_browse .\objects\utils.crf --depend .\objects\utils.d)
+I (.\RTE\Device\MK64FN1M0VLL12\fsl_device_registers.h)(0x5C1ACC1A)
+I (.\RTE\Device\MK64FN1M0VLL12\MK64F12.h)(0x5C1ACC1A)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm4.h)(0x5C8FF694)
+I (E:\Keil5\ARM\ARMCC\include\stdint.h)(0x599F75EE)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B97BD04)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8FF694)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8FF694)
+I (.\RTE\Device\MK64FN1M0VLL12\system_MK64F12.h)(0x5C1ACC1A)
+I (.\RTE\Device\MK64FN1M0VLL12\MK64F12_features.h)(0x5C1ACC1A)
+I (utils.h)(0x5CB367C8)
+F (.\utils.h)(0x5CB367C8)()
+F (.\3140.s)(0x5CB367C4)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\Device\MK64FN1M0VLL12-I.\RTE\_Target_1-IE:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IE:\Arm\Packs\NXP\MK64F12_DFP\11.0.0--pd "__UVISION_VERSION SETA 527" --pd "_RTE_ SETA 1" --pd "CPU_MK64FN1M0VLL12 SETA 1"--list .\listings\3140.lst --xref -o .\objects\3140.o --depend .\objects\3140.d)
+F (.\test_p1.c)(0x5CC4F821)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MK64FN1M0VLL12-I.\RTE\_Target_1-IE:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IE:\Arm\Packs\NXP\MK64F12_DFP\11.0.0-D__UVISION_VERSION="527" -D_RTE_ -DCPU_MK64FN1M0VLL12-o .\objects\test_p1.o --omf_browse .\objects\test_p1.crf --depend .\objects\test_p1.d)
+I (utils.h)(0x5CB367C8)
+I (3140_concur.h)(0x5CB367C4)
+I (E:\Keil5\ARM\ARMCC\include\stdlib.h)(0x599F75EC)
+I (.\RTE\Device\MK64FN1M0VLL12\fsl_device_registers.h)(0x5C1ACC1A)
+I (.\RTE\Device\MK64FN1M0VLL12\MK64F12.h)(0x5C1ACC1A)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm4.h)(0x5C8FF694)
+I (E:\Keil5\ARM\ARMCC\include\stdint.h)(0x599F75EE)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B97BD04)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8FF694)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8FF694)
+I (.\RTE\Device\MK64FN1M0VLL12\system_MK64F12.h)(0x5C1ACC1A)
+I (.\RTE\Device\MK64FN1M0VLL12\MK64F12_features.h)(0x5C1ACC1A)
+I (realtime.h)(0x5CC1E4AD)
+F (.\test_p2.c)(0x5CC4F821)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MK64FN1M0VLL12-I.\RTE\_Target_1-IE:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IE:\Arm\Packs\NXP\MK64F12_DFP\11.0.0-D__UVISION_VERSION="527" -D_RTE_ -DCPU_MK64FN1M0VLL12-o .\objects\test_p2.o --omf_browse .\objects\test_p2.crf --depend .\objects\test_p2.d)
+I (utils.h)(0x5CB367C8)
+I (3140_concur.h)(0x5CB367C4)
+I (E:\Keil5\ARM\ARMCC\include\stdlib.h)(0x599F75EC)
+I (.\RTE\Device\MK64FN1M0VLL12\fsl_device_registers.h)(0x5C1ACC1A)
+I (.\RTE\Device\MK64FN1M0VLL12\MK64F12.h)(0x5C1ACC1A)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm4.h)(0x5C8FF694)
+I (E:\Keil5\ARM\ARMCC\include\stdint.h)(0x599F75EE)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B97BD04)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8FF694)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8FF694)
+I (.\RTE\Device\MK64FN1M0VLL12\system_MK64F12.h)(0x5C1ACC1A)
+I (.\RTE\Device\MK64FN1M0VLL12\MK64F12_features.h)(0x5C1ACC1A)
+I (realtime.h)(0x5CC1E4AD)
+F (.\test_r1.c)(0x5CC4F821)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MK64FN1M0VLL12-I.\RTE\_Target_1-IE:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IE:\Arm\Packs\NXP\MK64F12_DFP\11.0.0-D__UVISION_VERSION="527" -D_RTE_ -DCPU_MK64FN1M0VLL12-o .\objects\test_r1.o --omf_browse .\objects\test_r1.crf --depend .\objects\test_r1.d)
+I (utils.h)(0x5CB367C8)
+I (3140_concur.h)(0x5CB367C4)
+I (E:\Keil5\ARM\ARMCC\include\stdlib.h)(0x599F75EC)
+I (.\RTE\Device\MK64FN1M0VLL12\fsl_device_registers.h)(0x5C1ACC1A)
+I (.\RTE\Device\MK64FN1M0VLL12\MK64F12.h)(0x5C1ACC1A)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm4.h)(0x5C8FF694)
+I (E:\Keil5\ARM\ARMCC\include\stdint.h)(0x599F75EE)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B97BD04)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8FF694)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8FF694)
+I (.\RTE\Device\MK64FN1M0VLL12\system_MK64F12.h)(0x5C1ACC1A)
+I (.\RTE\Device\MK64FN1M0VLL12\MK64F12_features.h)(0x5C1ACC1A)
+I (realtime.h)(0x5CC1E4AD)
+F (.\test_r2.c)(0x5CC4F821)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MK64FN1M0VLL12-I.\RTE\_Target_1-IE:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IE:\Arm\Packs\NXP\MK64F12_DFP\11.0.0-D__UVISION_VERSION="527" -D_RTE_ -DCPU_MK64FN1M0VLL12-o .\objects\test_r2.o --omf_browse .\objects\test_r2.crf --depend .\objects\test_r2.d)
+I (utils.h)(0x5CB367C8)
+I (3140_concur.h)(0x5CB367C4)
+I (E:\Keil5\ARM\ARMCC\include\stdlib.h)(0x599F75EC)
+I (.\RTE\Device\MK64FN1M0VLL12\fsl_device_registers.h)(0x5C1ACC1A)
+I (.\RTE\Device\MK64FN1M0VLL12\MK64F12.h)(0x5C1ACC1A)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm4.h)(0x5C8FF694)
+I (E:\Keil5\ARM\ARMCC\include\stdint.h)(0x599F75EE)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B97BD04)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8FF694)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8FF694)
+I (.\RTE\Device\MK64FN1M0VLL12\system_MK64F12.h)(0x5C1ACC1A)
+I (.\RTE\Device\MK64FN1M0VLL12\MK64F12_features.h)(0x5C1ACC1A)
+I (realtime.h)(0x5CC1E4AD)
+F (RTE\Device\MK64FN1M0VLL12\MK64F12.h)(0x5C1ACC1A)()
+F (RTE\Device\MK64FN1M0VLL12\MK64F12_features.h)(0x5C1ACC1A)()
+F (RTE\Device\MK64FN1M0VLL12\MK64FN1M0xxx12_flash.scf)(0x5C1ACC18)()
+F (RTE\Device\MK64FN1M0VLL12\MK64FN1M0xxx12_ram.scf)(0x5C1ACC18)()
+F (RTE\Device\MK64FN1M0VLL12\MK64FX512xxx12_flash.scf)(0x5C1ACC18)()
+F (RTE\Device\MK64FN1M0VLL12\MK64FX512xxx12_ram.scf)(0x5C1ACC18)()
+F (RTE\Device\MK64FN1M0VLL12\fsl_device_registers.h)(0x5C1ACC1A)()
+F (RTE\Device\MK64FN1M0VLL12\startup_MK64F12.s)(0x5CC39400)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\Device\MK64FN1M0VLL12-I.\RTE\_Target_1-IE:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IE:\Arm\Packs\NXP\MK64F12_DFP\11.0.0--pd "__UVISION_VERSION SETA 527" --pd "_RTE_ SETA 1" --pd "CPU_MK64FN1M0VLL12 SETA 1"--list .\listings\startup_mk64f12.lst --xref -o .\objects\startup_mk64f12.o --depend .\objects\startup_mk64f12.d)
+F (RTE\Device\MK64FN1M0VLL12\system_MK64F12.c)(0x5C1ACC1A)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MK64FN1M0VLL12-I.\RTE\_Target_1-IE:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IE:\Arm\Packs\NXP\MK64F12_DFP\11.0.0-D__UVISION_VERSION="527" -D_RTE_ -DCPU_MK64FN1M0VLL12-o .\objects\system_mk64f12.o --omf_browse .\objects\system_mk64f12.crf --depend .\objects\system_mk64f12.d)
+I (E:\Keil5\ARM\ARMCC\include\stdint.h)(0x599F75EE)
+I (RTE\Device\MK64FN1M0VLL12\fsl_device_registers.h)(0x5C1ACC1A)
+I (RTE\Device\MK64FN1M0VLL12\MK64F12.h)(0x5C1ACC1A)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm4.h)(0x5C8FF694)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B97BD04)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8FF694)
+I (E:\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8FF694)
+I (RTE\Device\MK64FN1M0VLL12\system_MK64F12.h)(0x5C1ACC1A)
+I (RTE\Device\MK64FN1M0VLL12\MK64F12_features.h)(0x5C1ACC1A)
+F (RTE\Device\MK64FN1M0VLL12\system_MK64F12.h)(0x5C1ACC1A)()
